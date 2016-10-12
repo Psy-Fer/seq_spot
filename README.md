@@ -3,9 +3,9 @@ some vis of seq data
 
 some examples being:
 
-![Alt Text](seq_spot/test6.png)
+![Alt Text](https://github.com/Psy-Fer/seq_spot/raw/master/test6.png)
 
 
 and also this
 
-![Alt Text](seq_spot/test7.png)
+![Alt Text](https://github.com/Psy-Fer/seq_spot/raw/master/test7.png)
