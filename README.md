@@ -9,3 +9,7 @@ some examples being:
 and also this
 
 ![Alt Text](https://github.com/Psy-Fer/seq_spot/raw/master/test7.png)
+
+Oredered by sum
+
+![Alt Text](https://github.com/Psy-Fer/seq_spot/raw/master/test8.png)
